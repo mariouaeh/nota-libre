@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mariouaeh/nota-libre/static/css/main.a27cf39b.chunk.css",
+    "main.js": "/mariouaeh/nota-libre/static/js/main.6532612e.chunk.js",
+    "main.js.map": "/mariouaeh/nota-libre/static/js/main.6532612e.chunk.js.map",
+    "runtime-main.js": "/mariouaeh/nota-libre/static/js/runtime-main.75246081.js",
+    "runtime-main.js.map": "/mariouaeh/nota-libre/static/js/runtime-main.75246081.js.map",
+    "static/js/2.c435c4d9.chunk.js": "/mariouaeh/nota-libre/static/js/2.c435c4d9.chunk.js",
+    "static/js/2.c435c4d9.chunk.js.map": "/mariouaeh/nota-libre/static/js/2.c435c4d9.chunk.js.map",
+    "static/js/3.1b36ebcc.chunk.js": "/mariouaeh/nota-libre/static/js/3.1b36ebcc.chunk.js",
+    "static/js/3.1b36ebcc.chunk.js.map": "/mariouaeh/nota-libre/static/js/3.1b36ebcc.chunk.js.map",
+    "index.html": "/mariouaeh/nota-libre/index.html",
+    "static/css/main.a27cf39b.chunk.css.map": "/mariouaeh/nota-libre/static/css/main.a27cf39b.chunk.css.map",
+    "static/js/2.c435c4d9.chunk.js.LICENSE.txt": "/mariouaeh/nota-libre/static/js/2.c435c4d9.chunk.js.LICENSE.txt",
+    "static/media/default2.60a34a88.jpg": "/mariouaeh/nota-libre/static/media/default2.60a34a88.jpg",
+    "static/media/App.css": "/mariouaeh/nota-libre/static/media/hoja2.66a2a3cb.jpg",
+    "static/media/react.103b5fa1.svg": "/mariouaeh/nota-libre/static/media/react.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75246081.js",
+    "static/js/2.c435c4d9.chunk.js",
+    "static/css/main.a27cf39b.chunk.css",
+    "static/js/main.6532612e.chunk.js"
+  ]
+}
